@@ -1,3 +1,7 @@
+build
+output
+out
+/.gradle
 *.class
 .mtj.tmp/
 *.jar
